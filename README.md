@@ -1,4 +1,4 @@
-### Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/pcatrina?theme=dark&font=Yantramanav&ext=heatmap)
 
 <!--
 **pcatrina/pcatrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
